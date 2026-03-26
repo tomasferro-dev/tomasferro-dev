@@ -14,14 +14,14 @@
 I'm a Full Stack Developer with strong foundations in software development and a focus on building scalable, efficient, and maintainable applications.
 
 👉 Currently studying **Tecnicatura Universitaria en Programación**  
-👉 Background in **Licenciatura en Administración de Empresas (incomplete)**  
+👉 Background in **Licenciatura en Administración de Empresas**  
 👉 Specialized in **MERN Stack (MongoDB, Express, React, Node.js)**  
 👉 Strong knowledge in **programming logic, algorithms & problem solving**  
 👉 Experience building full stack applications (frontend + backend + databases)  
 👉 Advanced use of **office tools (Excel, data handling, documentation)**  
 👉 Actively looking for opportunities in IT  
 
-📫 Contact: **tomasferro29@gmail.com**
+📫 Contact: **tomasferro.dev@gmail.com**
 
 ---
 
