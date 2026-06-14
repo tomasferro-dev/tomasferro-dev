@@ -1,5 +1,4 @@
 
-<img align="center" src="Captura de pantalla 2023-08-15 195322.png" alt="tomas">
 
 <h1 align="center">Hi 👋, I'm Tomas Ferro</h1>
 
